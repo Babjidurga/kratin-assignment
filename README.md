@@ -50,7 +50,8 @@ We understand the importance of social engagement for the well-being of older ad
 
 If you have any questions or would like to learn more about our hospital and the services we offer, please reach out to us:
 
-- Website: [www.oldagehospitalcare.com]![Uploading image.png…]()
+- Website: [www.oldagehospitalcare.com]![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/748ad52c-fbc8-42e0-91d4-df9a335e9437)
+
 
 - Phone: +1 (555) 123-4567
 - Email: info@oldagehospitalcare.com
