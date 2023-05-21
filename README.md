@@ -3,7 +3,7 @@
 
 # Old Age Hospital Care
 
-![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e4729667-3fbf-4102-9d3b-655531afc1d0)
+
 ![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e6c6a505-6f33-4395-a294-4b17ebcfc27f)
 
 Welcome to the Old Age Hospital Care repository! We are dedicated to providing excellent healthcare services for elderly individuals. This README file aims to provide you with an overview of our hospital's mission, services, and commitment to caring for the elderly population.
@@ -44,13 +44,14 @@ We understand the importance of social engagement for the well-being of older ad
 - Comprehensive range of services
 - Focus on social and recreational activities
 
-![Elderly patient with caregiver](images/elderly_patient.jpg)
+![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/a9e2dc71-562f-41ba-b3d5-203394c7afd4)
 
 ## Contact Us
 
 If you have any questions or would like to learn more about our hospital and the services we offer, please reach out to us:
 
-- Website: [www.oldagehospitalcare.com](http://www.oldagehospitalcare.com)
+- Website: [www.oldagehospitalcare.com]![Uploading image.png…]()
+
 - Phone: +1 (555) 123-4567
 - Email: info@oldagehospitalcare.com
 
