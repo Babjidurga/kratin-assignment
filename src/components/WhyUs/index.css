@@ -1,0 +1,32 @@
+.main-page{
+    color: rgb(45, 109, 35);
+    min-height: 70vh;
+}
+.main-head{
+    text-align: left;
+    margin-left: 5%;
+    color: rgb(26, 119, 14);
+}
+li{
+    color: rgb(45, 109, 35);
+    border-radius: 16px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin: 0 15px 50px 0;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 80%;
+}
+span{
+    margin-top:10px ;
+}
+img:hover{
+    transform: scale(1.05);
+    z-index: 1;
+}
+p{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}

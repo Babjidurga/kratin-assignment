@@ -1,0 +1,28 @@
+#home,#apointment, #services, #contactus, #whyus{
+  color: rgb(40, 166, 15);
+}
+#home:hover,
+#apointment:hover,
+#services:hover,
+#contactus:hover,
+#whyus:hover {
+  color: rgb(18, 100, 138); 
+  font-weight: 600;
+  font-size: 23px;
+  text-decoration: double;
+}
+*{
+  background-color: rgb(188, 244, 244);
+}
+.navbar-toggler-icon {
+  background-color: #52ec52;
+  outline: none;
+  width: 35px;
+  height: 35px;
+  border-radius: 6px;
+  
+}
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}

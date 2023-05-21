@@ -1,0 +1,23 @@
+body{
+    padding: none;
+    margin: none;
+}
+.home {
+    text-align: center;
+}
+  
+.home-img {
+    width: 70%;
+    height: 60vh;
+    border-radius: 18px;
+    border: 2px solid white;
+}
+.home-head{
+    font-size: 25px;
+    color: rgb(12, 203, 237);
+}
+ul{
+  list-style-type: none;
+  text-align: left;
+  
+}

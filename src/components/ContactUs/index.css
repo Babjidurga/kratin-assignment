@@ -1,0 +1,12 @@
+.address-img{
+    width: 80%;
+    border-radius: 16px;
+    height: 60vh;
+
+}
+.address{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+}

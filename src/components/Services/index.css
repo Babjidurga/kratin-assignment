@@ -1,0 +1,55 @@
+.facilities-container {
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 5px;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  h2{
+    color: white;
+    text-align: center;
+  }
+  .facilities-container h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .facilities-list {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .facility-item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    color: rgb(39, 86, 26);
+    border-radius: 10px;
+    margin: 0 20px 50px 0;
+    box-shadow: inset;
+
+  }
+  
+  .facility-item img {
+    width: 100%;
+    height: 90%;
+  }
+  
+  .facility-item span {
+    font-weight: bold;
+    font-size: 1em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 5px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-align: center;
+  }
+  .facility-item img:hover{
+    transform: scale(1.1);
+     z-index: 1;
+  }
