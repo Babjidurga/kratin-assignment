@@ -28,7 +28,7 @@ const Home = () => {
               </span>
             </h1>
             <button onClick={showContent} className='btn btn-primary mb-3'>Know more</button>
-            {yes && <YogaTips />}
+            {!yes && <YogaTips />}
            <a href = "https://github.com/Babjidurga" target='_blank' rel='noreferrer' ><p className='mt-5'>Made by @ Babji</p></a>
           </div>
         </Col>
