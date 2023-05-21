@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e4729667-3fbf-4102-9d3b-655531afc1d0)
+![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e6c6a505-6f33-4395-a294-4b17ebcfc27f)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Old Age Hospital Care
 
-## Available Scripts
+![Old Age Hospital Care](images/old_age_hospital.jpg)
 
-In the project directory, you can run:
+Welcome to the Old Age Hospital Care repository! We are dedicated to providing excellent healthcare services for elderly individuals. This README file aims to provide you with an overview of our hospital's mission, services, and commitment to caring for the elderly population.
 
-### `npm start`
+## Our Mission
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+At Old Age Hospital Care, our mission is to enhance the quality of life for senior citizens through compassionate and comprehensive healthcare. We strive to create a warm and nurturing environment where our elderly patients receive specialized medical attention and personalized care.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Services We Offer
 
-### `npm test`
+### 1. Geriatric Medicine
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+We have a team of experienced geriatric specialists who understand the unique needs and challenges of older adults. Our physicians provide comprehensive medical evaluations, disease management, and personalized treatment plans tailored specifically to each patient.
 
-### `npm run build`
+### 2. Specialized Care Units
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+We have dedicated units that cater to specific conditions commonly found in older adults, including dementia, stroke recovery, orthopedic rehabilitation, and palliative care. Our specialized units are designed to provide a comfortable and safe environment for our patients, ensuring optimal recovery and well-being.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. Nursing Care
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Our compassionate and highly skilled nursing staff is available round the clock to provide personalized care to our elderly patients. They assist with daily activities, medication management, and ensure a comfortable and supportive environment throughout the hospital stay.
 
-### `npm run eject`
+### 4. Rehabilitation Services
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+We offer a range of rehabilitation services, including physical therapy, occupational therapy, and speech therapy. Our goal is to help our elderly patients regain their independence, improve mobility, and enhance their overall quality of life.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 5. Social and Recreational Activities
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+We understand the importance of social engagement for the well-being of older adults. Our hospital organizes various social and recreational activities, such as music therapy, art classes, and group outings, to foster a sense of community and promote mental and emotional well-being.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Why Choose Us?
 
-## Learn More
+- Experienced and compassionate healthcare professionals
+- State-of-the-art facilities and equipment
+- Personalized care plans tailored to individual needs
+- Emphasis on promoting independence and quality of life
+- Safe and supportive environment
+- Comprehensive range of services
+- Focus on social and recreational activities
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Elderly patient with caregiver](images/elderly_patient.jpg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contact Us
 
-### Code Splitting
+If you have any questions or would like to learn more about our hospital and the services we offer, please reach out to us:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Website: [www.oldagehospitalcare.com](http://www.oldagehospitalcare.com)
+- Phone: +1 (555) 123-4567
+- Email: info@oldagehospitalcare.com
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We are committed to providing exceptional care and improving the lives of older adults. Join us in our mission to make a positive impact on the health and well-being of the elderly community!
