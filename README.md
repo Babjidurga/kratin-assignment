@@ -1,9 +1,10 @@
-![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e4729667-3fbf-4102-9d3b-655531afc1d0)
-![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e6c6a505-6f33-4395-a294-4b17ebcfc27f)
+
+
 
 # Old Age Hospital Care
 
-![Old Age Hospital Care](images/old_age_hospital.jpg)
+![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e4729667-3fbf-4102-9d3b-655531afc1d0)
+![image](https://github.com/Babjidurga/kratin-assignment/assets/113676689/e6c6a505-6f33-4395-a294-4b17ebcfc27f)
 
 Welcome to the Old Age Hospital Care repository! We are dedicated to providing excellent healthcare services for elderly individuals. This README file aims to provide you with an overview of our hospital's mission, services, and commitment to caring for the elderly population.
 
